@@ -2,12 +2,14 @@
     "profiles": {
         "_id": 0,
         "username": "Ola",
-        "email": "ola@gmail.com"
+        "email": "ola@gmail.com",
+        "img": ["https://images.pexels.com/photos/3094799/pexels-photo-3094799.jpeg", ""]
     },
     "profiles": {
         "_id": 1,
         "username": "Olsa",
-        "email": "olsa@gmail.com"
+        "email": "olsa@gmail.com",
+        "img": ["https://images.pexels.com/photos/3094799/pexels-photo-3094799.jpeg", ""]
     },
     "product": {
         "p_id": 0,
