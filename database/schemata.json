@@ -1,28 +1,32 @@
 {
-    "profiles": {
-        "_id": 0,
-        "username": "Ola",
-        "email": "ola@gmail.com",
-        "img": ["https://images.pexels.com/photos/3094799/pexels-photo-3094799.jpeg", ""],
-        "_id": 1,
-        "username": "Olsa",
-        "email": "olsa@gmail.com",
-        "img": ["https://images.pexels.com/photos/3094799/pexels-photo-3094799.jpeg", ""]
-},
-    "products": {
-        "p_id": 0,
-        "title": "Soy-base organic candles",
-        "tag": ["minimalist", "vegetable-base", "organic", "healthy", "dietary"],
-        "description": "",
-        "SKU": "",
-        "img": ["https://images.pexels.com/photos/3094799/pexels-photo-3094799.jpeg", ""],
-        "p_id": 1,
-        "title": "Soy-base organic beans",
-        "tag": ["minimalist", "vegetable-base", "organic", "healthy", "dietary"],
-        "description": "",
-        "SKU": "",
-        "img": ["https://images.pexels.com/photos/3094799/pexels-photo-3094799.jpeg", ""]]
-    },
+    "profiles": [{
+            "_id": 0,
+            "username": "Ola",
+            "email": "ola@gmail.com"
+        },
+        {
+            "_id": 1,
+            "username": "Olsa",
+            "email": "olsa@gmail.com"
+        }
+    ],
+    "product": [{
+            "p_id": 0,
+            "title": "Soy-base organic candles",
+            "tag": ["minimalist", "vegetable-base", "organic", "healthy", "dietary"],
+            "description": "",
+            "SKU": "",
+            "img": []
+        },
+        {
+            "p_id": 1,
+            "title": "Soy-base organic candles",
+            "tag": ["minimalist", "vegetable-base", "organic", "healthy", "dietary"],
+            "description": "",
+            "SKU": "",
+            "img": []
+        }
+    ],
 
     "tag": {
         "t_id": 0,
