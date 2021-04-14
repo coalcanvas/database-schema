@@ -1,5 +1,5 @@
-{
-    "profiles": {[
+{[
+    "profiles": {
         "_id": 0,
         "username": "Ola",
         "email": "ola@gmail.com",
@@ -10,10 +10,10 @@
         "username": "Olsa",
         "email": "olsa@gmail.com",
         "img": ["https://images.pexels.com/photos/3094799/pexels-photo-3094799.jpeg", ""]
-    ]
-},
-    "product": {
-       [ "p_id": 0,
+    
+}],
+   [ "product": {
+        "p_id": 0,
         "title": "Soy-base organic candles",
         "tag": ["minimalist", "vegetable-base", "organic", "healthy", "dietary"],
         "description": "",
@@ -27,7 +27,7 @@
         "description": "",
         "SKU": "",
         "img": ["https://images.pexels.com/photos/3094799/pexels-photo-3094799.jpeg", ""]]
-    },
+    }],
 
     "tag": {
         "t_id": 0,
