@@ -2,7 +2,7 @@
     "participants": [{
     "name": "John",
     "guests" : 5,
-    "status": false
+    "status": true
   },
   
   {
